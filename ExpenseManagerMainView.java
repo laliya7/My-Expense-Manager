@@ -1,3 +1,8 @@
+/*
+Hi please help me im new on java programming and i created this just to test my knowledge. 
+Fix my bugs here if you liked it. Thank you!
+*/
+
 import java.util.*;
 import java.io.File;
 import java.io.FileNotFoundException;
